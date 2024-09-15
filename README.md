@@ -1,3 +1,5 @@
+# About
+
 - 👋 Hey, I'm Dan.
 - 👀 I’m interested in Data Analytics and Data Science
 - 🌱 I’m currently learning Database Management through SQL and Machine Learning using Python libraries
@@ -10,3 +12,13 @@
 taufikkardana/taufikkardana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+# Table of Content
+
+# Portfolio
+
+# Mini Projects
+
+# Courses & Certifications
+
+# Contact
