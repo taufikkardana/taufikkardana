@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Mini Projects
 
-| Presentation  | Where | Date | Slides |
+| Story  | Where | Date | Slides |
 | :---: | :---: | :---: | :---: |
 | TBE | TBE | TBE | TBE |
 | TBE | TBE | TBE | TBE |
