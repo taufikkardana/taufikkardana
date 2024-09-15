@@ -28,3 +28,5 @@ You can click the Preview link to take a look at your changes.
 ## Courses & Certifications
 
 ## Contact
+- E-mail: dan.kardana.au@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/kardana/)
