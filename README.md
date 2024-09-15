@@ -1,4 +1,4 @@
-- 👋 Hey, Dan.
+- 👋 Hey, I'm Dan.
 - 👀 I’m interested in Data Analytics and Data Science
 - 🌱 I’m currently learning Database Management through SQL and Machine Learning using Python libraries
 - 💞️ I’m looking to collaborate on Analytics or Data Science Project
