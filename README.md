@@ -1,4 +1,4 @@
-# About
+## About
 
 - 👋 Hey, I'm Dan.
 - 👀 I’m interested in Data Analytics and Data Science
@@ -13,12 +13,12 @@ taufikkardana/taufikkardana is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-# Table of Content
+## Table of Content
 
-# Portfolio
+## Portfolio
 
-# Mini Projects
+## Mini Projects
 
-# Courses & Certifications
+## Courses & Certifications
 
-# Contact
+## Contact
