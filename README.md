@@ -17,6 +17,7 @@ You can click the Preview link to take a look at your changes.
 Python, SQL, Tableau, PowerBI, SAS
 
 ## Portfolio
+Upcoming
 
 ## Mini Projects
 
