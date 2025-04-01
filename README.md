@@ -1,12 +1,19 @@
 ## About
 
-- 👋 Hey, I'm Dan.
-- 👀 I’m interested in Data Analytics and Data Science
-- 🌱 I’m currently learning Database Management through SQL and Machine Learning using Python libraries
-- 💞️ I’m looking to collaborate on Analytics or Data Science Project
-- 📫 How to reach me: https://www.linkedin.com/in/kardana/
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I used to swim competitively
+<b>Hi there, I'm Dan.</b>
+<br>
+<br>
+I'm a Data Analyst with a passion for turning data into actionable insights. I recently completed my Master of Commerce in Digital Transformation & Business Analytics from the University of New South Wales (Sep 2022 – Sep 2024) and hold a Bachelor of Management in Finance from Harapan Bangsa Business School (Sep 2017 – Sep 2021).
+
+<b>What I do:</b>
+- Building data models, dashboards, and visualizations using Power BI and Tableau.
+- Applying Python and SQL for statistical analysis, data cleaning, and automation.
+- Leveraging SAS for statistical modeling and advanced analytics.
+- Exploring machine learning techniques to derive meaningful patterns from data.
+
+<b>Currently working on:</b>
+- Developing my portfolio with projects focused on customer churn analysis, sales forecasting, and predictive analytics.
+- Enhancing my skills in Python, SQL, Power BI, Tableau, and SAS.
 
 <!---
 taufikkardana/taufikkardana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
