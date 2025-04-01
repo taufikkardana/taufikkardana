@@ -13,19 +13,16 @@ taufikkardana/taufikkardana is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-## Languages & Tools
+## Current Tech Stacks
 Python, SQL, Tableau, PowerBI, SAS
 
 ## Portfolio
 Upcoming
 
-## Mini Projects
+## Education
 
-| Story  | Where | Date | Slides |
-| :---: | :---: | :---: | :---: |
-| TBE | TBE | TBE | TBE |
-| TBE | TBE | TBE | TBE |
-| TBE | TBE | TBE | TBE |
+- University of New South Wales, Master of Commerce: Digital Transformation & Business Analytics, Sep 2022 - Sep 2024
+- Harapan Bangsa Business School, Bachelor of Management: Finance, Sep 2017 - Sep 2021
 
 ## Courses & Certifications
 
