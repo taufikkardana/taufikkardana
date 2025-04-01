@@ -14,6 +14,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## Current Tech Stacks
+<img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" width="60" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" width="60" />
 Python, SQL, Tableau, PowerBI, SAS
 
 ## Portfolio
